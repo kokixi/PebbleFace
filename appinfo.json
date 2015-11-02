@@ -1,0 +1,39 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "anagrande@gmail.com",
+    "longName": "shugochara",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/yoru.png",
+                "name": "yoru",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "background",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "perfect_font_32",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "shugochara",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "20536813-eb8c-4623-966d-790cc18fd412",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
